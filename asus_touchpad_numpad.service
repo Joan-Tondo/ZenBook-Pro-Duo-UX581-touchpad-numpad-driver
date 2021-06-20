@@ -1,0 +1,9 @@
+[Unit]
+Description=Asus Touchpad to Numpad Handler
+After=graphical.target
+
+[Service]
+ExecStart=/usr/bin/python3 /usr/bin/asus_touchpad_numpad.py
+
+[Install]
+WantedBy=graphical.target
