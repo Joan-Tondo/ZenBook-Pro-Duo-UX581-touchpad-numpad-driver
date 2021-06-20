@@ -52,7 +52,7 @@ if [ "$touchpad_detected" = false ] ; then
 fi
 
 echo "Copy asus python driver to /usr/bin/asus_touchpad_numpad.py"
-cp touchpad_numpad_symbols.py /usr/bin/asus_touchpad_numpad.py
+cp asus_touchpad_numpad.py /usr/bin/asus_touchpad_numpad.py
 
 
 echo "Add asus touchpad service in /lib/systemd/system/"
