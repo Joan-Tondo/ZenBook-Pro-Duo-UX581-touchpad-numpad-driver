@@ -1,4 +1,4 @@
-# Asus touchpad numpad driver
+# ZenBook Pro Duo UX581 touchpad numpad driver
 
 ![asus-zenbook-pro-duo-touchpad2](https://user-images.githubusercontent.com/86166007/122673280-f5f76a00-d1cf-11eb-9fec-a646800f3e6b.jpg)
 
