@@ -31,6 +31,7 @@ Now you can get the latest ASUS Touchpad Numpad Driver for Linux from Git and in
 git clone https://github.com/Joan-Tondo/ZenBook-Pro-Duo-UX581-touchpad-numpad-driver
 cd ZenBook-Pro-Duo-UX581-touchpad-numpad-driver
 chmod +x ./install.sh
+chmod +x ./uninstall.sh
 sudo ./install.sh
 ```
 
